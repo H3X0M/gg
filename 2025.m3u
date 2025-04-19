@@ -649,12 +649,12 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/FMN/sa_dash/FMN.mpd
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="📁 Sports Lokal",Sportstars (QTV)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports Lokal",Sportstars
 http://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd?token=pjp1f9XCAJH2kkXY113ULEVASzG8wG9U
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
-#EXTINF:-1 tvg-id="Lokal" group-title="📁 Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-l.png" ch-number="113", Sportstars 2 (QTV)
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports Lokal" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-l.png" ch-number="113", Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -721,39 +721,39 @@ https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/Timnas1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6685&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+#KODIPROP:inputstream.adaptive.license_key=https://h3x0m.com/pidio/drm2.php?id=6685&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 #EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" ch-number="4",Champions TV 1
-https://starlord.web.id/pidio/master.mpd?id=6685&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+https://h3x0m.com/pidio/master.mpd?id=6685&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6686&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+#KODIPROP:inputstream.adaptive.license_key=https://h3x0m.com/pidio/drm2.php?id=6686&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 #EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/fMNzQjcJ3Ivu1avjeNbVwPigh5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4226012/135010.jpg" ch-number="5",Champions TV 2
-https://starlord.web.id/pidio/master.mpd?id=6686&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+https://h3x0m.com/pidio/master.mpd?id=6686&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9353&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+#KODIPROP:inputstream.adaptive.license_key=https://h3x0m.com/pidio/drm2.php?id=9353&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 #EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/mRPZMC2zwT68k6JII0b2tZZHy6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg" ch-number="3",Premier League TV
-https://starlord.web.id/pidio/master.mpd?id=9353&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+https://h3x0m.com/pidio/master.mpd?id=9353&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=6786&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+#KODIPROP:inputstream.adaptive.license_key=https://h3x0m.com/pidio/drm2.php?id=6786&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 #EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" ch-number="6",Champions TV 3
-https://starlord.web.id/pidio/master.mpd?id=6786&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+https://h3x0m.com/pidio/master.mpd?id=6786&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9182&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+#KODIPROP:inputstream.adaptive.license_key=https://h3x0m.com/pidio/drm2.php?id=9182&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 #EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" ch-number="1",Champions TV 5
-https://starlord.web.id/pidio/master.mpd?id=9182&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+https://h3x0m.com/pidio/master.mpd?id=9182&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_key=https://starlord.web.id/pidio/drm2.php?id=9183&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+#KODIPROP:inputstream.adaptive.license_key=https://h3x0m.com/pidio/drm2.php?id=9183&type=drm&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 #EXTINF:-1 group-logo="http://qtvid.pw/glogo/sportsid.png" group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" ch-number="2",Champions TV 6
-https://starlord.web.id/pidio/master.mpd?id=9183&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
+https://h3x0m.com/pidio/master.mpd?id=9183&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd&token=xuzuwxvwOLRQSJT1UogjJEFbh1iBN2qd
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
