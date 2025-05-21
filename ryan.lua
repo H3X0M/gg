@@ -286,18 +286,23 @@ local function createMenu()
 	-- X-Ray toggle
 	local xray = false
 	xrayBtn.MouseButton1Click:Connect(function()
-		xray = not xray
-		xrayBtn.Text = "X-Ray: " .. (xray and "ON" or "OFF")
-		for _, plr in pairs(Players:GetPlayers()) do
-			if plr ~= player then
-				if xray then
-					createESP(plr)
-				else
-					removeESP(plr)
-				end
+	xray = not xray
+	xrayBtn.Text = "X-Ray: " .. (xray and "ON" or "OFF")
+
+	-- Bersihkan cache agar tidak menyebabkan deteksi invalid
+	table.clear(rememberedMonsters)
+	table.clear(rememberedPolisi)
+
+	for _, plr in pairs(Players:GetPlayers()) do
+		if plr ~= player then
+			if xray then
+				createESP(plr)
+			else
+				removeESP(plr)
 			end
 		end
-	end)
+	end
+end)
 
 	-- Update ESP setiap ada player baru atau karakter muncul
 	Players.PlayerAdded:Connect(function(plr)
